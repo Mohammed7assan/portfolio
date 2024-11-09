@@ -12,7 +12,6 @@ function App() {
 
       <Hero />
       <div className="divider"/>
-
       <Main />
       <div className="divider"/>
 

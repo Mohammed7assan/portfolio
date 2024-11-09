@@ -3,7 +3,7 @@ import 'module';
 const Contact = () => {
   return (
     <div>
-      Contact
+      Contact US
     </div>
   )
 }
